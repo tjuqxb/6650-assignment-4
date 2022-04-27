@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parameters>
+    <numThreads>64</numThreads>
+    <service>skier_service</service>
+    <RedisIP>172.31.26.25</RedisIP>
+</parameters>
